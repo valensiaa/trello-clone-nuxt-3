@@ -1,0 +1,39 @@
+{
+    "name": "task-board",
+    "columns": [
+      {
+        "name": "todo",
+        "id": "d8f8bf99-b065-427c-b1c0-835e49805cd8",
+        "tasks": [
+          {
+            "id": "34bf89f9-84ab-465b-822f-2694e375hgne",
+            "name": "task #1",
+            "description": "Nulla facilisi. Sed bibendum sollicitudin orci, at viverra metus vehicula sed."
+          }
+        ]
+      },
+      {
+        "name": "in-progress",
+        "id": "8f020024-9a5b-4db0-a01e-3bebc0bf6032",
+        "tasks": [ {
+            "id": "364c772d-7fa4-4131-8751-2bab599b51ea",
+            "name": "task #2",
+            "description": "Aliquam erat volutpat. Curabitur tincidunt, felis a elementum tincidunt, ex felis fermentum dui, eget pulvinar arcu eros eu eros."
+        } ]
+      },
+      {
+        "name": "complete",
+          "id": "1d7f94af-892c-41db-8fba-2a584f4e901b",
+        "tasks": [ {
+            "id": "924887d0-c08a-4674-91f8-5c4199f64e08",
+            "name": "task #3",
+            "description": "Mauris vitae quam in justo dictum sodales. Suspendisse potenti. Sed bibendum sollicitudin orci, at viverra metus vehicula sed. Nullam a luctus leo. Nulla facilisi."
+        },
+        {
+            "id": "34bf89f9-84ab-465b-822f-2694efghhg1e",
+            "name": "task #4",
+            "description": "Mauris vitae quam in justo dictum sodales. Suspendisse potenti. Sed bibendum sollicitudin orci, at viverra metus vehicula sed. Nullam a luctus leo. Nulla facilisi."
+        }]
+      }
+    ]
+  }
